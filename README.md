@@ -1,6 +1,4 @@
-# Introduction to Cloud Computing on AWS for Beginners with Code
-
-\*By [Digital Cloud Training]
+## Notes for Cloud Computing with code
 
 **_What you will learn:_**
 
